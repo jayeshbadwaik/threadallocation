@@ -1,3 +1,5 @@
 how to run:
 $ make
 $ ./main
+
+Read output from output.txt
